@@ -16,3 +16,7 @@ JS -
 
 PHP -
 ![php](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/php.png)
+
+## Installation
+
+Put "Codeacademy.tmTheme" into your /Packages/User/tmtheme and than choose it through  Preferences/Color Scheme/User/Codeacademy.tmTheme
