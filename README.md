@@ -16,5 +16,3 @@ JS -
 
 PHP -
 ![php](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/php.png)
-=======
-
