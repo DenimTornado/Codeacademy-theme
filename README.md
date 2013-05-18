@@ -9,10 +9,12 @@ CSS -
 ![css](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/css.png)
 
 HTML -
-![css](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/html.png)
+![html](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/html.png)
 
 JS -
-![css](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/js.png)
+![js](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/js.png)
 
 PHP -
-![css](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/php.png)
+![php](https://raw.github.com/DenimTornado/Codeacademy-theme/master/images/php.png)
+=======
+
